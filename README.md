@@ -2,7 +2,7 @@
 
 <br/>
 
-1. 安装[ Liberica Native Image Kit](https://bell-sw.com/pages/downloads/native-image-kit/#nik-23-(jdk-17)) 版本我选择的是==17.0.11+10-23.0.4+1==
+1. 安装[ Liberica Native Image Kit](https://bell-sw.com/pages/downloads/native-image-kit/#nik-23-(jdk-17)) 版本我选择的是17.0.11+10-23.0.4+1
 
 2. 配置JDK环境变量
 
