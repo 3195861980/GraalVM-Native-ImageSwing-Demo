@@ -1,0 +1,15 @@
+[
+  {
+    "name": "com.resend.services.emails.model.CreateEmailOptions",
+    "allDeclaredConstructors": true,
+    "allDeclaredMethods": true,
+    "allDeclaredFields": true
+  },
+    {
+    "name": "com.resend.services.emails.model.Attachment",
+    "allDeclaredConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allDeclaredFields" : true
+  }
+]
+
